@@ -1,0 +1,17 @@
+{
+  "play_button": {
+    "en": "Play",
+    "tr": "Oyna",
+    "es": "Jugar"
+  },
+  "settings_button": {
+    "en": "Settings",
+    "tr": "Ayarlar",
+    "es": "Configuración"
+  },
+  "exit_button": {
+    "en": "Exit",
+    "tr": "Çıkış",
+    "es": "Salir"
+  }
+}
