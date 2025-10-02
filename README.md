@@ -1,4 +1,4 @@
-# Unity Localization Helper
+# Unity Localization Tool
 
 A simple, modular, and easy-to-use localization system for Unity projects.  
 Designed to work with **TextMeshPro** and JSON-based localization files, allowing you to easily manage multiple languages in your game or application.  
